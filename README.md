@@ -26,7 +26,7 @@ Start with either the Mobile or Desktop version. As a bonus, do both of them!
 
 
 </details>
-
+<summary>Screenshot  of Oscar Mobile View</summary>
 
 
 ## Tips
